@@ -1,12 +1,25 @@
 # LTC
-Just track my LeetCode attempts 
 
-2281.Sum of Total Strength of Wizards
+Tracking my LeetCode attempts by category and algorithmic technique.
 
-1074.Number of Submatrices That Sum to Target
+---
 
-974.Subarray Sums Divisible by K
+## Prefix Sum
 
-2958.Length of Longest Subarray With at Most K Frequency
+[Prefix Branch](https://github.com/mimirinko912/LTC/tree/Prefix)  
+Problems using prefix sum to optimize range queries or subarray summation:
 
-2831.Find the Longest Equal Subarray
+- 2281.**Sum of Total Strength of Wizards**
+- 1074.**Number of Submatrices That Sum to Target**
+- 974.**Subarray Sums Divisible by K**
+
+---
+
+## Sliding Window
+
+[Sliding Window Branch](https://github.com/mimirinko912/LTC/tree/Sliding-Window)  
+Problems where sliding window helps reduce time complexity by avoiding recomputation:
+
+- 2958.**Length of Longest Subarray With at Most K Frequency**
+- 2831.**Find the Longest Equal Subarray**
+- 2799.**Count Complete Subarrays in an Array**
