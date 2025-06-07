@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int longestEqualSubarray(vector<int>& nums, int k) {
+        unordered_map<int, vector<int>> pos;
+        int n = nums.size();
+
+        for (int i = 0; i < n; ++i)
+            pos[nums[i]].push_back(i);
+
+        int max_len = 0;
+        for (auto& [num, idxs] : pos) {
+            int l = 0;
+            for (int r = 0; r < idxs.size(); ++r) {
+                while (idxs[r] - idxs[l] - (r - l) > k)
+                    ++l;
+                max_len = max(max_len, r - l + 1);
+            }
+        }
+        return max_len;
+    }
+};
