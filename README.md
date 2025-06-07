@@ -1,11 +1,5 @@
-# LTC
+Problems where sliding window helps reduce time complexity by avoiding recomputation:
 
-Just track my LeetCode attempts
-
-2281. Sum of Total Strength of Wizards
-
-2282. Number of Submatrices That Sum to Target
-
-2283. Subarray Sums Divisible by K
-
-2284. Length of Longest Subarray With at Most K Frequency
+- 2958.**Length of Longest Subarray With at Most K Frequency**
+- 2831.**Find the Longest Equal Subarray**
+- 2799.**Count Complete Subarrays in an Array**
