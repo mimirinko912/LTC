@@ -14,6 +14,7 @@ Problems using prefix sum to optimize range queries or subarray summation:
 - 1074.**Number of Submatrices That Sum to Target**
 - 974.**Subarray Sums Divisible by K**
 - 930.**Binary Subarrays With Sum**
+- 992.**Subarrays with K Different Integers**
 
 ---
 
