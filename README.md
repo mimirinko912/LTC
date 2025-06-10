@@ -28,3 +28,5 @@ Problems where sliding window helps reduce time complexity by avoiding recomputa
 - 2831.**Find the Longest Equal Subarray**
 - 2799.**Count Complete Subarrays in an Array**
 - 2779.**Maximum Beauty of an Array After Applying Operation**
+- 904.**Fruit Into Baskets**
+- 862.**Shortest Subarray with Sum at Least K**
