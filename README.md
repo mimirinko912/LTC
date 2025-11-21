@@ -37,4 +37,35 @@ Problems where sliding window helps reduce time complexity by avoiding recomputa
 
 ---
 
+## Stack Problems
+Collecting Chocolates
+Minimum Time to Repair Cars
+Next Greater Element IV
+Online Stock Span
+Score of Parentheses
+Next Greater Element II
+Mono Stack Problem
+Beautiful Towers II
+Next Greater Element IV
+Maximum Number of Robots Within Budget
 
+---
+
+## Binary Search Problems
+Minimize the Maximum Difference of Pairs
+House Robber IV
+Maximum Candies Allocated to K Children
+Koko Eating Bananas
+Minimize Max Distance to Gas Station
+Split Array Largest Sum
+
+---
+
+## DP problems
+Maximum Points After Collecting Coins From All Nodes
+Minimum Increment Operations to Make Array Beautiful
+Apply Operations to Make Two Strings Equal
+Maximize the Profit as the Salesman
+Maximum Earnings From Taxi
+Maximum Number of Events That Can Be Attended II
+Maximum Profit in Job Scheduling
