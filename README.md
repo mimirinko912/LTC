@@ -39,7 +39,7 @@ Problems where sliding window helps reduce time complexity by avoiding recomputa
 
 ## Stack Problems
 - 2735.**Collecting Chocolates**
--- Keypoint:最小轉動，
+-- **Keypoint:最小轉動**
 - Minimum Time to Repair Cars
 Next Greater Element IV
 Online Stock Span
