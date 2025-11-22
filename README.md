@@ -41,6 +41,7 @@ Problems where sliding window helps reduce time complexity by avoiding recomputa
 - 2735.**Collecting Chocolates**
   - **Keypoint:** 最小轉動
 - Minimum Time to Repair Cars
+  - **Keypoint:** 最終會有一個時間點是維修工將車輛修完，利用Binary search去逼近這個時間點
 Next Greater Element IV
 Online Stock Span
 Score of Parentheses
